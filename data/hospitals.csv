@@ -1,0 +1,9 @@
+hospital_id,hospital_name,city,province,hospital_type
+H001,Toronto General Hospital,Toronto,ON,Public
+H002,Sunnybrook Health Sciences,Toronto,ON,Public
+H003,Mount Sinai Hospital,Toronto,ON,Public
+H004,Mississauga Medical Centre,Mississauga,ON,Private
+H005,Brampton Civic Hospital,Brampton,ON,Public
+H006,North York Health Centre,North York,ON,Private
+H007,Scarborough General Hospital,Scarborough,ON,Public
+H008,Hamilton Health Centre,Hamilton,ON,Public
