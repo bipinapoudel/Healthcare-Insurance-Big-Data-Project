@@ -1,0 +1,367 @@
+claim_id,subscriber_id,patient_id,hospital_id,disease_name,claim_date,claim_type,total_charges,claim_status,approved_amount,severity
+C00001,S0037,P0037,H005,Asthma,2025-01-23,Cashless,35450.0,Approved,31074,Critical
+C00002,S0106,P0106,H002,Cancer,2025-03-07,Cashless,81391.0,Pending,75191,High
+C00003,S0077,P0077,H001,Diabetes,2025-05-19,Reimbursement,37715.0,Rejected,0,High
+C00004,S0141,P0141,H007,Heart Disease,2026-01-22,Cashless,50845.0,Approved,41850,Critical
+C00005,S0145,P0145,H008,Cancer,2026-02-07,Cashless,79145.0, rejected ,74514,Normal
+C00006,S0150,P0150,H005,Asthma,2026-03-11,Cashless,24487.0,Approved,21532,High
+C00007,S0022,P0022,H001,Cancer,2025-04-26,Reimbursement,73799.0,Rejected,0,Critical
+C00008,S0150,P0150,H001,Diabetes,2025-02-04,Cashless,39511.0,Approved,32351,Normal
+C00009,S0175,P0175,H002,Cancer,2025-08-11,Cashless,90396.0,Rejected,0,Normal
+C00010,S0060,P0060,H001,Migraine,2025-11-23,Reimbursement,36138.0,Approved,31043,Normal
+C00011,S0048,P0048,H008,Hypertension,2026-06-18,Cashless,21048.0,Approved,14106,Critical
+C00012,S0058,P0058,H007,Hypertension,2026-03-14,Reimbursement,21014.0,Approved,11951,Critical
+C00013,S0045,P0045,H003,Heart Disease,2026-03-03,Cashless,31629.0,Approved,21190,Critical
+C00014,S0014,P0014,H001,Diabetes,2025-05-28,Cashless,1500.0,Rejected,0,Critical
+C00015,S0155,P0155,H003,Migraine,2025-05-18,Reimbursement,2126.0,Approved,1386,Critical
+C00016,S0024,P0024,H006,Hypertension,2025-04-05,Cashless,19565.0,Approved,17251,High
+C00017,S0119,P0119,H004,Kidney Disease,2025-03-16,Cashless,12807.0,Approved,10945,High
+C00018,S0177,P0177,H002,Hypertension,2025-01-16,Cashless,32713.0,Approved,20478,Critical
+C00019,S0142,P0142,H001,Asthma,2025-07-29,,14379.0,Approved,9284,High
+C00020,S0021,P0021,H004,Asthma,2025-11-12,Reimbursement,6815.0,Approved,5146,High
+C00021,S0048,P0048,H005,Flu,2025-11-24,Reimbursement,49984.0,Pending,34902,Normal
+C00022,S0087,P0087,H005,Hypertension,2025-01-17,Reimbursement,24613.0,Approved,22740,High
+C00023,S0100,P0100,H001,Diabetes,2025-09-09,Reimbursement,,Approved,23553,High
+C00024,S0020,P0020,H004,Migraine,2026-05-18,Reimbursement,6628.0,Approved,5588,Normal
+C00025,S0112,P0112,H003,Kidney Disease,2025-03-02,Cashless,19834.0,Approved,17565,Critical
+C00026,S0031,P0031,H002,Fracture,2025-08-25,Cashless,29663.0,Approved,18106,Critical
+C00027,S0141,P0141,H004,Heart Disease,2026-05-10,Reimbursement,10735.0,Approved,5971,Normal
+C00028,S0003,P0003,H002,Asthma,2025-10-21,Reimbursement,33635.0,Approved,29439,Normal
+C00029,S0182,P0182,H003,Hypertension,2025-09-04,Reimbursement,18990.0,Approved,14443,High
+C00030,S0112,P0112,H007,Cancer,2026-04-16,Reimbursement,80651.0,Approved,66851,Critical
+C00031,S0062,P0062,H006,Kidney Disease,2025-02-02,Reimbursement,18974.0,Approved,13314,Normal
+C00032,S0080,P0080,H001,Cancer,2026-05-27,Cashless,104220.0,Approved,71131,Critical
+C00033,S0141,P0141,H006,Diabetes,2026-05-02,Reimbursement,27797.0,Approved,25563,Critical
+C00034,S0108,P0108,H001,Kidney Disease,2025-11-19,Cashless,12134.0,Approved,7679,Critical
+C00035,S0054,P0054,H002,Hypertension,2025-09-04,Reimbursement,40338.0,Approved,35891,High
+C00036,S0180,P0180,H005,Fracture,2025-03-22,Cashless,9687.0,Approved,9103,Normal
+C00037,S0080,P0080,H001,Diabetes,2026-02-11,Reimbursement,31132.0,Pending,21186,High
+C00038,S0040,P0040,H003,Diabetes,2026-01-20,Reimbursement,1500.0,Approved,1232,Normal
+C00039,S0121,P0121,H001,Diabetes,2025-03-17,Cashless,8077.0,Approved,4940,Critical
+C00040,S0175,P0175,H001,Diabetes,2025-01-06,Reimbursement,30952.0,Pending,22529,Normal
+C00041,S0083,P0083,H002,Cancer,2026-06-09,Cashless,85817.0,Approved,50275,Critical
+C00042,S0123,P0123,H006,Fracture,2025-01-13,Cashless,30570.0,Approved,21555,Critical
+C00043,S0175,P0175,H008,Hypertension,2026-06-18,Cashless,26265.0,Approved,18445,High
+C00044,S0134,P0134,H001,Diabetes,2025-06-21,Reimbursement,23483.0,Approved,16871,Normal
+C00045,S0111,P0111,H001,Diabetes,2026-05-23,Cashless,5822.0,Approved,3657,Normal
+C00046,S0018,P0018,H002,Cancer,2026-01-25,Cashless,58798.0,Approved,42466,High
+C00047,S0124,P0124,H004,Knee Surgery,2026-05-06,Reimbursement,46385.0,Approved,32900,High
+C00048,S0167,P0167,H003,Kidney Disease,2025-09-06,Reimbursement,43856.0,Approved,29037,High
+C00049,S0136,P0136,H001,Hypertension,2025-07-04,Reimbursement,33154.0,Approved,25529,Critical
+C00050,S0150,P0150,H002,Heart Disease,2025-03-12,Reimbursement,1554.0,Rejected,0,Critical
+C00051,S0092,P0092,H002,Cancer,2025-09-16,Reimbursement,96027.0,Approved,69067,Normal
+C00052,S0020,P0020,H003,Migraine,2026-02-15,Reimbursement,22223.0,Approved,20431,Critical
+C00053,S0097,P0097,H002,Fracture,2025-03-29,Reimbursement,17846.0,Approved,11587,Normal
+C00054,S0094,P0094,H003,Knee Surgery,2026-02-14,Cashless,76838.0,Approved,66733,Normal
+C00055,S0048,P0048,H003,Diabetes,2026-06-16,Cashless,43464.0,Approved,35860,High
+C00056,S0093,P0093,H005,Heart Disease,2026-05-28,Reimbursement,41969.0,Approved,39831,Normal
+C00057,S0087,P0087,H007,Heart Disease,2025-04-29,Cashless,15411.0,Rejected,0,High
+C00058,S0147,P0147,H005,Heart Disease,2026-06-18,Reimbursement,23361.0,Approved,17298,Critical
+C00059,S0173,P0173,H001,Heart Disease,2025-02-15,Cashless,32968.0,Rejected,0,Normal
+C00060,S0004,P0004,H004,Kidney Disease,2025-06-18,Cashless,42633.0,Pending,36075,Critical
+C00061,S0180,P0180,H002,Heart Disease,2026-04-19,Cashless,20812.0,Approved,14818,Normal
+C00062,S0039,P0039,H002,Kidney Disease,2025-07-22,Cashless,25215.0,Approved,18200,Critical
+C00063,S0034,P0034,H005,Diabetes,2025-03-06,Cashless,11404.0,Approved,9919,High
+C00064,S0017,P0017,H001,Diabetes,2026-05-17,Reimbursement,10056.0,Approved,8101,Critical
+C00065,S0180,P0180,H002,Knee Surgery,2026-04-14,Reimbursement,75416.0,Approved,61798,Critical
+C00066,S0117,P0117,H001,Cancer,2025-05-01,Cashless,83978.0,Approved,52336,Critical
+C00067,S0181,P0181,H001,Heart Disease,2026-01-28,Cashless,26919.0,Approved,20045,Critical
+C00068,S0068,P0068,H001,Asthma,2025-11-19,Cashless,43052.0,Rejected,0,High
+C00069,S0069,P0069,H001,Asthma,2026-01-29,Reimbursement,33424.0,Pending,25140,High
+C00070,S0074,P0074,H004,Asthma,2026-03-31,Cashless,18323.0,Approved,10683,Normal
+C00071,S0023,P0023,H001,Cancer,2025-10-23,Reimbursement,64443.0,Rejected,0,Critical
+C00072,S0021,P0021,H001,Cancer,2026-01-11,Cashless,106593.0,Rejected,0,Critical
+C00073,S0097,P0097,H008,Knee Surgery,2025-04-15,Cashless,66578.0,Rejected,0,High
+C00074,S0056,P0056,H002,Heart Disease,2025-03-31,Cashless,51469.0,Approved,48771,Normal
+C00075,S0143,P0143,H002,Knee Surgery,2026-03-15,Cashless,21938.0,Approved,18953,Normal
+C00076,S0013,P0013,H002,Heart Disease,2025-06-22,Reimbursement,40328.0,Approved,33537,Critical
+C00077,S0072,P0072,H003,Hypertension,2025-04-08,Reimbursement,29305.0,Approved,24910,Normal
+C00078,S0142,P0142,H001,Hypertension,2025-05-16,Cashless,23514.0,Approved,19623,Critical
+C00079,S0119,P0119,H003,Asthma,2025-10-03,Cashless,29376.0,Approved,20565,Critical
+C00080,S0037,P0037,H005,Heart Disease,2026-01-13,Cashless,1500.0,Approved,1117,Critical
+C00081,S0005,P0005,H002,Fracture,2026-01-02,Reimbursement,24704.0,Rejected,0,Normal
+C00082,S0110,P0110,H003,Flu,2025-11-27,Reimbursement,33356.0,Rejected,0,Critical
+C00083,S0018,P0018,H006,Cancer,2025-12-18,Cashless,114899.0,Rejected,0,Normal
+C00084,S0127,P0127,H002,Fracture,2025-05-08,Reimbursement,20225.0,Pending,12401,Normal
+C00085,S0025,P0025,H004,Diabetes,2025-05-16,Reimbursement,15872.0,Rejected,0,Normal
+C00086,S0102,P0102,H002,Cancer,2025-03-26,Cashless,64842.0,Approved,52493,High
+C00087,S0173,P0173,H004,Diabetes,2025-08-28,Cashless,41731.0,Approved,24474,Normal
+C00088,S0127,P0127,H001,Asthma,2025-08-20,Cashless,32931.0,Approved,23974,Critical
+C00089,S0132,P0132,H008,Flu,2026-03-09,Cashless,20053.0,Approved,14860,High
+C00090,S0085,P0085,H001,Fracture,2025-11-17,Reimbursement,35699.0,Approved,23907,Normal
+C00091,S0005,P0005,H001,Migraine,2025-01-09,Reimbursement,29456.0,Approved,18134,Critical
+C00092,S0073,P0073,H001,Knee Surgery,2026-02-26,Cashless,77716.0,Approved,69476,Normal
+C00093,S0084,P0084,H003,Fracture,2026-01-29,Cashless,17469.0,Approved,12608,Normal
+C00094,S0111,P0111,H001,Kidney Disease,2025-10-19,Cashless,23085.0,Rejected,0,Critical
+C00095,S0113,P0113,H004,Diabetes,2025-07-13,Reimbursement,22118.0,Rejected,0,Critical
+C00096,S0093,P0093,H005,Fracture,2025-09-03,Reimbursement,6047.0,Approved,3598,Critical
+C00097,S0092,P0092,H006,Cancer,2025-01-13,Reimbursement,76105.0,Pending,45875,High
+C00098,S0085,P0085,H005,Kidney Disease,2025-03-16,Reimbursement,31915.0,Approved,18415,Normal
+C00099,S0073,P0073,H007,Hypertension,2026-02-12,Reimbursement,28076.0,Approved,22500,High
+C00100,S0106,P0106,H004,Heart Disease,2025-06-06,Cashless,24481.0,Approved,16499,Normal
+C00101,S0012,P0012,H003,Diabetes,2025-03-09,Cashless,6769.0,Approved,4907,Normal
+C00102,S0084,P0084,H002,Cancer,2026-04-10,Cashless,81817.0,Approved,55121,Normal
+C00103,S0063,P0063,H004,Kidney Disease,2025-06-17,Reimbursement,22859.0,Approved,15742,Normal
+C00104,S0167,P0167,H005,Cancer,2025-10-03,Cashless,83998.0,Rejected,0,High
+C00105,S0098,P0098,H001,Diabetes,2025-03-20,Cashless,25580.0,Approved,19295,High
+C00106,S0071,P0071,H001,Cancer,2025-04-16,Cashless,91671.0,Approved,54648,Normal
+C00107,S0097,P0097,H003,Diabetes,2026-01-28,Cashless,56292.0,Pending,34990,Critical
+C00108,S0152,P0152,H002,Fracture,2025-11-26,Reimbursement,30618.0,Approved,28056,High
+C00109,S0151,P0151,H001,Knee Surgery,2025-02-23,Cashless,52739.0,Approved,39887,High
+C00110,S0139,P0139,H006,Hypertension,2025-11-15,Cashless,26883.0,Approved,20733,High
+C00111,S0183,P0183,H005,Diabetes,2025-09-06,Reimbursement,1500.0,Approved,1180,Normal
+C00112,S0080,P0080,H005,Hypertension,2025-09-09,Cashless,27602.0,Approved,25475,Normal
+C00113,S0141,P0141,H006,Heart Disease,2025-01-10,Reimbursement,28903.0,Pending,15913,Critical
+C00114,S0048,P0048,H001,Diabetes,2025-09-01,Cashless,64948.0,Approved,60692,Critical
+C00115,S0023,P0023,H007,Cancer,2026-06-17,Cashless,72184.0,Approved,50456,Critical
+C00116,S0181,P0181,H004,Asthma,2026-02-08,Reimbursement,32523.0,Approved,25274,Critical
+C00117,S0004,P0004,H001,Diabetes,2025-11-19,Reimbursement,27479.0,Pending,19432,High
+C00118,S0014,P0014,H001,Diabetes,2025-07-27,Cashless,10469.0,Approved,8983,Normal
+C00119,S0118,P0118,H003,Cancer,2026-02-21,Cashless,73054.0,Approved,68367,High
+C00120,S0117,P0117,H006,Asthma,2025-04-03,Cashless,39278.0,Approved,32381,Normal
+C00121,S0149,P0149,H004,Cancer,2025-12-31,Reimbursement,85833.0,Approved,70458,Normal
+C00122,S0073,P0073,H006,Hypertension,2025-09-13,Cashless,14359.0,Approved,8482,Normal
+C00123,S0073,P0073,H005,Cancer,2025-08-16,Cashless,77607.0,Approved,55119,Critical
+C00124,S0151,P0151,H005,Diabetes,2025-01-23,Reimbursement,6972.0,Pending,4386,Normal
+C00125,S0005,P0005,H005,Hypertension,2025-12-06,Cashless,36802.0,Approved,34112,Normal
+C00126,S0110,P0110,H005,Heart Disease,2026-05-24,Cashless,60856.0,Approved,50101,High
+C00127,S0149,P0149,H002,Hypertension,2026-04-02,Cashless,13141.0,Rejected,0,Critical
+C00128,S0013,P0013,H004,Knee Surgery,2026-05-26,Reimbursement,48005.0,Rejected,0,Normal
+C00129,S0128,P0128,H001,Diabetes,2025-07-24,Cashless,29494.0,Approved,25626,Critical
+C00130,S0071,P0071,H008,Flu,2026-01-03,Reimbursement,20447.0,Approved,17637,Critical
+C00131,S0053,P0053,H002,Diabetes,2025-01-27,Reimbursement,4740.0,Approved,3022,Normal
+C00132,S0052,P0052,H005,Asthma,2025-08-27,Cashless,29028.0,Pending,17128,High
+C00133,S0125,P0125,H007,Flu,2025-02-27,Cashless,12065.0,Rejected,0,Critical
+C00134,S0142,P0142,H006,Heart Disease,2025-06-27,Reimbursement,35103.0,Approved,27626,Critical
+C00135,S0058,P0058,H002,Kidney Disease,2025-05-26,Reimbursement,14208.0,Approved,8884,Critical
+C00136,S0110,P0110,H001,Cancer,2025-02-27,Reimbursement,86494.0,Approved,48261,Normal
+C00137,S0156,P0156,H001,Hypertension,2025-05-14,Reimbursement,16251.0,Approved,10091,Normal
+C00138,S0174,P0174,H004,Cancer,2025-05-26,Reimbursement,50438.0,Rejected,0,Normal
+C00139,S0105,P0105,H004,Kidney Disease,2025-04-14,Cashless,40202.0,Approved,27298,Critical
+C00140,S0056,P0056,H007,Fracture,2025-11-21,Reimbursement,9537.0,Approved,8940,Normal
+C00141,S0075,P0075,H001,Knee Surgery,2025-11-11,Cashless,70462.0,Approved,42343,Critical
+C00142,S0130,P0130,H008,Heart Disease,2025-02-03,Cashless,47607.0,Approved,32243,Critical
+C00143,S0169,P0169,H003,Cancer,2025-12-06,Reimbursement,72733.0,Approved,50092,Normal
+C00144,S0058,P0058,H001,Hypertension,2025-12-10,Cashless,30769.0,Approved,20187,Critical
+C00145,S0179,P0179,H005,Heart Disease,2025-01-02,Reimbursement,31898.0,Approved,23135,Normal
+C00146,S0119,P0119,H002,Asthma,2026-01-20,Cashless,39727.0,Approved,29469,Normal
+C00147,S0149,P0149,H006,Cancer,2025-10-29,Cashless,30760.0,Approved,28627,High
+C00148,S0154,P0154,H001,Hypertension,2025-03-18,Cashless,8193.0,Approved,7449,High
+C00149,S0035,P0035,H006,Migraine,2025-02-01,Reimbursement,35829.0,Approved,29073,Normal
+C00150,S0035,P0035,H001,Cancer,2025-07-14,Reimbursement,79276.0,Approved,66497,Critical
+C00151,S0077,P0077,H001,Diabetes,2026-02-07,Cashless,31757.0,Approved,28134,Normal
+C00152,S0010,P0010,H001,Cancer,2026-05-07,Reimbursement,66281.0,Approved,41941,Normal
+C00153,S0053,P0053,H002,Flu,2026-02-12,Reimbursement,17799.0,Approved,16160,Normal
+C00154,S0143,P0143,H001,Knee Surgery,2026-01-26,Reimbursement,58587.0,Approved,33268,High
+C00155,S0172,P0172,H002,Diabetes,2025-03-05,Cashless,32396.0,Approved,26842,Normal
+C00156,S0069,P0069,H003,Heart Disease,2025-08-21,Reimbursement,17284.0,Approved,15319,Critical
+C00157,S0087,P0087,H003,Hypertension,2025-08-30,Cashless,55986.0,Approved,32560,Critical
+C00158,S0105,P0105,H005,Hypertension,2025-05-31,Cashless,35107.0,Approved,29941,Normal
+C00159,S0038,P0038,H001,Flu,2026-03-10,Cashless,10130.0,Approved,8339,Critical
+C00160,S0066,P0066,H001,Flu,2025-03-10,Reimbursement,37848.0,Approved,29239,High
+C00161,S0025,P0025,H006,Asthma,2026-06-20,Cashless,13379.0,Rejected,0,High
+C00162,S0035,P0035,H003,Cancer,2025-04-13,Reimbursement,66728.0,Approved,39395,Critical
+C00163,S0102,P0102,H002,Hypertension,2026-05-13,Cashless,45378.0,Approved,33544,High
+C00164,S0136,P0136,H004,Cancer,2026-02-16,Cashless,38230.0,Approved,34467,Normal
+C00165,S0009,P0009,H002,Asthma,2026-01-17,Reimbursement,42450.0,Approved,37226,High
+C00166,S0030,P0030,H006,Flu,2025-04-11,Reimbursement,34191.0,Pending,21922,Critical
+C00167,S0148,P0148,H002,Fracture,2026-03-03,Reimbursement,40330.0,Approved,23621,Normal
+C00168,S0075,P0075,H005,Fracture,2026-01-18,Cashless,56451.0,Rejected,0,Normal
+C00169,S0065,P0065,H002,Kidney Disease,2026-06-21,Cashless,24319.0,Rejected,0,Normal
+C00170,S0059,P0059,H001,Hypertension,2025-03-01,Reimbursement,16693.0,Approved,12228,Critical
+C00171,S0182,P0182,H005,Diabetes,2026-06-02,Cashless,14657.0,Approved,13473,Normal
+C00172,S0147,P0147,H002,Asthma,2026-05-01,Cashless,15762.0,Approved,10874,High
+C00173,S0099,P0099,H001,Flu,2025-01-29,Cashless,26843.0,Approved,16512,Normal
+C00174,S0084,P0084,H001,Diabetes,2026-02-24,Cashless,33117.0,Approved,29667,High
+C00175,S0097,P0097,H003,Kidney Disease,2025-01-09,Reimbursement,32150.0,Approved,25505,Critical
+C00176,S0125,P0125,H002,Knee Surgery,2026-01-21,Reimbursement,83311.0,Approved,54218,High
+C00177,S0077,P0077,H004,Asthma,2025-04-15,Reimbursement,28195.0,Approved,26778,Critical
+C00178,S0091,P0091,H002,Knee Surgery,2025-04-21,Reimbursement,80588.0,Approved,76183,High
+C00179,S0147,P0147,H007,Kidney Disease,2025-11-02,Cashless,24030.0,Approved,18188,Normal
+C00180,S0132,P0132,H002,Heart Disease,2025-05-24,Reimbursement,68802.0,Rejected,0,High
+C00181,S0028,P0028,H002,Hypertension,2025-02-06,Cashless,37385.0,Approved,35437,High
+C00182,S0039,P0039,H004,Kidney Disease,2026-05-03,Reimbursement,15142.0,Pending,12397,Normal
+C00183,S0138,P0138,H001,Hypertension,2025-04-10,Cashless,11936.0,Approved,10102,Critical
+C00184,S0180,P0180,H001,Kidney Disease,2025-08-17,Reimbursement,35237.0,Rejected,0,High
+C00185,S0132,P0132,H003,Heart Disease,2026-04-20,Reimbursement,24648.0,Rejected,0,Normal
+C00186,S0063,P0063,H007,Knee Surgery,2025-03-14,Cashless,69183.0,Rejected,0,Critical
+C00187,S0124,P0124,H002,Asthma,2025-06-04,Reimbursement,35098.0,Approved,22115,Critical
+C00188,S0008,P0008,H006,Cancer,2025-07-04,Cashless,52203.0,Approved,41888,High
+C00189,S0114,P0114,H002,Cancer,2025-08-03,Cashless,85183.0,Rejected,0,High
+C00190,S0014,P0014,H002,Cancer,2026-03-16,Cashless,51713.0,Approved,38317,Normal
+C00191,S0041,P0041,H002,Diabetes,2025-01-15,Cashless,21302.0,Rejected,0,Normal
+C00192,S0141,P0141,H005,Cancer,2025-08-20,Reimbursement,106295.0,Rejected,0,Normal
+C00193,S0112,P0112,H003,Heart Disease,2025-06-21,Reimbursement,31211.0,Approved,17736,High
+C00194,S0043,P0043,H003,Asthma,2026-03-21,Cashless,9313.0,Rejected,0,High
+C00195,S0051,P0051,H001,Heart Disease,2026-02-18,Cashless,30597.0,Approved,19573,Normal
+C00196,S0177,P0177,H003,Cancer,2025-05-07,Reimbursement,77803.0,Approved,67443,Critical
+C00197,S0181,P0181,H004,Fracture,2025-02-19,Cashless,14742.0,Approved,11962,Normal
+C00198,S0020,P0020,H002,Cancer,2025-05-07,Cashless,86171.0,Approved,71586,Critical
+C00199,S0111,P0111,H002,Knee Surgery,2025-04-14,Cashless,65581.0,Approved,52407,High
+C00200,S0039,P0039,H004,Asthma,2025-10-17,Cashless,10855.0,Approved,6431,Critical
+C00201,S0026,P0026,H005,Fracture,2025-07-26,Cashless,33366.0,Approved,23820,Normal
+C00202,S0152,P0152,H001,Asthma,2026-05-08,Cashless,36411.0,Approved,20065,Normal
+C00203,S0077,P0077,H001,Kidney Disease,2025-04-03,Cashless,44245.0,Rejected,0,Critical
+C00204,S0066,P0066,H001,Cancer,2025-08-25,Reimbursement,93740.0,Pending,62656,Normal
+C00205,S0010,P0010,H006,Flu,2025-10-25,Reimbursement,7334.0,Approved,6019,Critical
+C00206,S0146,P0146,H005,Cancer,2025-02-16,Cashless,34565.0,Rejected,0,High
+C00207,S0147,P0147,H007,Hypertension,2025-10-02,Cashless,35725.0,Rejected,0,High
+C00208,S0178,P0178,H002,Cancer,2026-04-13,Reimbursement,73520.0,Rejected,0,High
+C00209,S0153,P0153,H001,Hypertension,2025-05-16,Cashless,35725.0,Approved,20486,Normal
+C00210,S0154,P0154,H003,Hypertension,2026-03-25,Reimbursement,85790.0,Approved,60216,Critical
+C00211,S0183,P0183,H006,Hypertension,2025-05-14,Reimbursement,36563.0,Approved,27248,High
+C00212,S0125,P0125,H004,Cancer,2025-01-13,Cashless,111207.0,Rejected,0,Critical
+C00213,S0029,P0029,H004,Asthma,2025-04-08,Reimbursement,42310.0,Approved,35568,High
+C00214,S0171,P0171,H002,Kidney Disease,2025-02-25,Reimbursement,37770.0,Approved,34889,High
+C00215,S0123,P0123,H003,Cancer,2025-09-04,Cashless,64955.0,Pending,37033,Critical
+C00216,S0181,P0181,H005,Heart Disease,2025-03-22,Reimbursement,39384.0,Approved,34283,Normal
+C00217,S0134,P0134,H001,Heart Disease,2026-05-25,Cashless,16407.0,Rejected,0,Normal
+C00218,S0006,P0006,H003,Heart Disease,2025-01-01,Reimbursement,24447.0,Rejected,0,Critical
+C00219,S0123,P0123,H004,Diabetes,2025-12-16,Cashless,20719.0,Approved,11845,High
+C00220,S0156,P0156,H004,Knee Surgery,2026-04-30,Cashless,67711.0,Approved,56631,Normal
+C00221,S0111,P0111,H001,Kidney Disease,2025-12-30,Reimbursement,62719.0,Rejected,0,Critical
+C00222,S0025,P0025,H001,Heart Disease,2025-06-18,Reimbursement,1500.0,Approved,1318,Normal
+C00223,S0175,P0175,H001,Knee Surgery,2026-02-07,Reimbursement,60357.0,Approved,52062,Normal
+C00224,S0032,P0032,H007,Heart Disease,2025-05-07,Reimbursement,3809.0,Rejected,0,High
+C00225,S0128,P0128,H003,Knee Surgery,2026-05-26,Reimbursement,36063.0,Approved,20535,Critical
+C00226,S0009,P0009,H005,Hypertension,2025-07-01,Cashless,44334.0,Approved,27463,Normal
+C00227,S0170,P0170,H004,Kidney Disease,2025-11-26,Cashless,28964.0,Approved,20386,High
+C00228,S0158,P0158,H008,Migraine,2026-04-09,Cashless,11833.0,Rejected,0,High
+C00229,S0098,P0098,H005,Kidney Disease,2025-11-03,Reimbursement,17270.0,Rejected,0,Critical
+C00230,S0072,P0072,H004,Hypertension,2025-07-25,Reimbursement,38193.0,Approved,31919,Critical
+C00231,S0053,P0053,H004,Migraine,2025-07-02,Reimbursement,17044.0,Approved,14107,Critical
+C00232,S0069,P0069,H003,Fracture,2026-03-04,Reimbursement,31246.0,Approved,28357,High
+C00233,S0028,P0028,H001,Asthma,2025-05-29,Reimbursement,28683.0,Approved,16425,Normal
+C00234,S0062,P0062,H001,Kidney Disease,2025-03-05,Cashless,18225.0,Approved,12175,High
+C00235,S0001,P0001,H006,Cancer,2025-08-18,Reimbursement,128813.0,Approved,90884,Critical
+C00236,S0044,P0044,H002,Cancer,2026-03-03,Cashless,102409.0,Approved,78941,Critical
+C00237,S0037,P0037,H006,Diabetes,2026-03-30,Reimbursement,1500.0,Rejected,0,Critical
+C00238,S0010,P0010,H001,Fracture,2025-07-18,Cashless,30796.0,Approved,19123,Normal
+C00239,S0177,P0177,H001,Fracture,2025-02-11,Cashless,18073.0,Approved,13963,Normal
+C00240,S0031,P0031,H001,Flu,2026-04-23,Cashless,40786.0,Approved,24957,High
+C00241,S0136,P0136,H007,Cancer,2025-11-05,Reimbursement,68260.0,Rejected,0,Normal
+C00242,S0033,P0033,H001,Diabetes,2025-07-08,Cashless,26278.0,Approved,22717,High
+C00243,S0176,P0176,H001,Asthma,2025-08-15,Reimbursement,35574.0,Rejected,0,High
+C00244,S0096,P0096,H007,Diabetes,2026-05-02,Cashless,40986.0,Pending,36046,Normal
+C00245,S0144,P0144,H001,Heart Disease,2025-09-07,Reimbursement,9995.0,Pending,8226,High
+C00246,S0041,P0041,H003,Heart Disease,2025-10-17,Reimbursement,22982.0,Approved,17391,Critical
+C00247,S0028,P0028,H001,Heart Disease,2025-07-17,Cashless,20875.0,Approved,12168,Normal
+C00248,S0004,P0004,H004,Asthma,2025-08-04,Reimbursement,18200.0,Approved,15641,Normal
+C00249,S0026,P0026,H004,Asthma,2026-03-22,Cashless,54481.0,Approved,50443,Normal
+C00250,S0024,P0024,H001,Kidney Disease,2025-03-17,Cashless,34074.0,Approved,29565,Critical
+C00251,S0017,P0017,H002,Hypertension,2026-04-07,Cashless,9086.0,Approved,6571,High
+C00252,S0164,P0164,H001,Cancer,2025-03-06,Cashless,111309.0,Rejected,0,Critical
+C00253,S0131,P0131,H003,Heart Disease,2025-10-24,Reimbursement,59832.0,Rejected,0,Critical
+C00254,S0024,P0024,H007,Diabetes,2026-01-26,Reimbursement,43486.0,Approved,35410,Normal
+C00255,S0171,P0171,H005,Diabetes,2025-10-30,Reimbursement,5209.0,Pending,3165,Normal
+C00256,S0032,P0032,H001,Hypertension,2025-02-12,Cashless,20736.0,Approved,16353,High
+C00257,S0009,P0009,H006,Fracture,2025-12-19,Cashless,47003.0,Approved,42878,Normal
+C00258,S0023,P0023,H005,Diabetes,2025-07-18,Cashless,17384.0,Approved,14226,Critical
+C00259,S0141,P0141,H001,Kidney Disease,2025-03-10,Reimbursement,34657.0,Approved,21798,High
+C00260,S0114,P0114,H004,Cancer,2025-04-13,Reimbursement,78305.0,Approved,71261,High
+C00261,S0058,P0058,H004,Heart Disease,2025-06-06,Reimbursement,14096.0,Approved,9807,High
+C00262,S0153,P0153,H001,Cancer,2025-08-15,Reimbursement,93781.0,Rejected,0,High
+C00263,S0125,P0125,H005,Cancer,2026-05-07,Reimbursement,51833.0,Approved,44571,Critical
+C00264,S0034,P0034,H004,Cancer,2025-10-15,Cashless,41809.0,Rejected,0,High
+C00265,S0037,P0037,H001,Hypertension,2025-03-19,Cashless,24211.0,Rejected,0,Critical
+C00266,S0113,P0113,H003,Heart Disease,2025-02-07,Reimbursement,9283.0,Approved,7123,Critical
+C00267,S0040,P0040,H001,Heart Disease,2025-10-25,Cashless,52486.0,Approved,39388,High
+C00268,S0010,P0010,H004,Asthma,2025-06-19,Cashless,6547.0,Rejected,0,High
+C00269,S0072,P0072,H007,Cancer,2025-05-30,Reimbursement,89628.0,Rejected,0,Normal
+C00270,S0024,P0024,H001,Fracture,2025-09-28,Cashless,29961.0,Approved,16991,Critical
+C00271,S0041,P0041,H007,Heart Disease,2025-02-17,Cashless,49619.0,Approved,40162,Critical
+C00272,S0074,P0074,H002,Knee Surgery,2025-09-27,Reimbursement,40422.0,Approved,25043,High
+C00273,S0143,P0143,H006,Kidney Disease,2026-06-14,Cashless,45447.0,Approved,42677,Critical
+C00274,S0151,P0151,H006,Heart Disease,2026-05-14,Cashless,28153.0,Rejected,0,Critical
+C00275,S0122,P0122,H001,Heart Disease,2026-06-11,Cashless,13277.0,Approved,8425,Normal
+C00276,S0071,P0071,H005,Knee Surgery,2025-08-24,Cashless,63517.0,Rejected,0,High
+C00277,S0052,P0052,H001,Asthma,2025-06-15,Cashless,30985.0,Approved,22134,Normal
+C00278,S0107,P0107,H001,Knee Surgery,2026-06-09,Cashless,35280.0,Rejected,0,Normal
+C00279,S0114,P0114,H001,Diabetes,2026-02-20,Cashless,29047.0,Approved,22524,Critical
+C00280,S0091,P0091,H002,Kidney Disease,2025-03-29,Reimbursement,22220.0,Approved,17611,High
+C00281,S0042,P0042,H002,Diabetes,2025-05-27,Cashless,29702.0,Rejected,0,Critical
+C00282,S0108,P0108,H001,Asthma,2025-12-17,Cashless,37931.0,Pending,29912,Normal
+C00283,S0105,P0105,H001,Heart Disease,2025-07-27,Reimbursement,51790.0,Approved,47322,Normal
+C00284,S0114,P0114,H003,Cancer,2025-02-09,Reimbursement,64259.0,Approved,38363,Critical
+C00285,S0069,P0069,H003,Hypertension,2025-01-02,Reimbursement,59995.0,Rejected,0,Critical
+C00286,S0140,P0140,H001,Heart Disease,2026-03-16,Reimbursement,1500.0,Approved,1306,High
+C00287,S0170,P0170,H007,Flu,2025-04-11,Cashless,25723.0,Approved,16766,Normal
+C00288,S0098,P0098,H003,Knee Surgery,2025-09-21,Cashless,58017.0,Approved,49166,Critical
+C00289,S0147,P0147,H001,Cancer,2025-07-30,Reimbursement,97287.0,Rejected,0,High
+C00290,S0039,P0039,H004,Cancer,2025-09-17,Reimbursement,55783.0,Rejected,0,Critical
+C00291,S0138,P0138,H008,Knee Surgery,2026-02-11,Reimbursement,64616.0,Approved,49808,Normal
+C00292,S0092,P0092,H003,Knee Surgery,2025-11-11,Cashless,54532.0,Approved,45381,Critical
+C00293,S0057,P0057,H002,Fracture,2025-06-15,Reimbursement,19159.0,Approved,14433,Critical
+C00294,S0182,P0182,H004,Kidney Disease,2025-06-14,Cashless,40744.0,Approved,32772,Normal
+C00295,S0062,P0062,H002,Hypertension,2025-03-07,Cashless,33355.0,Approved,23292,Critical
+C00296,S0143,P0143,H002,Hypertension,2026-06-18,Cashless,17606.0,Approved,16468,Normal
+C00297,S0032,P0032,H001,Asthma,2026-06-15,Cashless,41493.0,Approved,23378,Critical
+C00298,S0174,P0174,H002,Kidney Disease,2025-01-01,Reimbursement,32609.0,Pending,19067,High
+C00299,S0150,P0150,H002,Kidney Disease,2025-07-25,Cashless,40192.0,Approved,33953,Normal
+C00300,S0064,P0064,H005,Diabetes,2025-12-23,Cashless,37444.0,Approved,32808,Critical
+C00301,S0018,P0018,H002,Asthma,2025-01-05,Cashless,15565.0,Approved,11095,Critical
+C00302,S0147,P0147,H002,Asthma,2025-04-30,Reimbursement,19597.0,Rejected,0,Critical
+C00303,S0123,P0123,H002,Diabetes,2026-01-22,Reimbursement,39209.0,Approved,33640,High
+C00304,S0106,P0106,H003,Asthma,2025-01-29,Reimbursement,37155.0,Approved,24266,Critical
+C00305,S0170,P0170,H001,Kidney Disease,2025-11-20,Cashless,27686.0,Approved,19137,Critical
+C00306,S0074,P0074,H001,Diabetes,2025-12-17,Reimbursement,29759.0,Approved,27454,High
+C00307,S0150,P0150,H003,Diabetes,2025-07-07,Cashless,47164.0,Pending,38827,High
+C00308,S0155,P0155,H005,Diabetes,2025-09-29,Cashless,19126.0,Approved,12070,Critical
+C00309,S0127,P0127,H001,Cancer,2025-03-22,Cashless,100496.0,Pending,75077,Critical
+C00310,S0053,P0053,H002,Flu,2025-11-19,Reimbursement,24967.0,Approved,23572,High
+C00311,S0086,P0086,H007,Migraine,2025-10-14,Cashless,24734.0,Approved,21025,Normal
+C00312,S0029,P0029,H003,Flu,2025-02-03,Cashless,44481.0,Approved,31469,High
+C00313,S0108,P0108,H002,Kidney Disease,2025-01-09,Cashless,40381.0,Approved,25613,High
+C00314,S0091,P0091,H001,Knee Surgery,2025-09-27,Reimbursement,62972.0,Approved,58778,High
+C00315,S0088,P0088,H001,Asthma,2026-01-17,Reimbursement,47582.0,Approved,33794,Normal
+C00316,S0126,P0126,H003,Cancer,2025-08-23,Cashless,54860.0,Rejected,0,Critical
+C00317,S0028,P0028,H001,Hypertension,2025-06-03,Reimbursement,38229.0,Approved,21174,High
+C00318,S0169,P0169,H006,Migraine,2026-06-14,Reimbursement,23345.0,Approved,15788,High
+C00319,S0086,P0086,H003,Knee Surgery,2026-02-12,Reimbursement,51105.0,Approved,29335,High
+C00320,S0092,P0092,H005,Cancer,2025-09-24,Reimbursement,69703.0,Approved,53880,High
+C00321,S0153,P0153,H002,Heart Disease,2025-07-23,Cashless,29454.0,Approved,23856,High
+C00322,S0141,P0141,H003,Diabetes,2026-04-03,Reimbursement,36927.0,Rejected,0,Critical
+C00323,S0065,P0065,H007,Asthma,2025-06-21,Reimbursement,15726.0,Approved,14490,Critical
+C00324,S0108,P0108,H006,Knee Surgery,2025-03-15,Reimbursement,76977.0,Approved,49364,Critical
+C00325,S0166,P0166,H004,Kidney Disease,2026-02-09,Reimbursement,12909.0,Approved,9397,Critical
+C00326,S0078,P0078,H002,Asthma,2025-06-21,Cashless,9787.0,Approved,5473,Critical
+C00327,S0166,P0166,H004,Hypertension,2025-03-23,Cashless,45371.0,Approved,32159,Normal
+C00328,S0024,P0024,H001,Knee Surgery,2026-02-11,Cashless,72043.0,Rejected,0,Normal
+C00329,S0124,P0124,H001,Knee Surgery,2026-02-04,Reimbursement,62498.0,Approved,52813,Critical
+C00330,S0083,P0083,H006,Cancer,2025-01-30,Reimbursement,59728.0,Approved,53405,High
+C00331,S0045,P0045,H003,Migraine,2025-10-06,Cashless,27816.0,Approved,16802,Critical
+C00332,S0095,P0095,H005,Asthma,2026-03-22,Reimbursement,14541.0,Approved,11717,High
+C00333,S0006,P0006,H005,Asthma,2026-03-29,Cashless,29137.0,Approved,20829,High
+C00334,S0088,P0088,H005,Cancer,2025-05-20,Reimbursement,60378.0,Approved,46131,High
+C00335,S0020,P0020,H002,Cancer,2025-10-27,Reimbursement,101751.0,Approved,56256,Normal
+C00336,S0104,P0104,H002,Hypertension,2025-09-13,Reimbursement,25794.0,Approved,21791,High
+C00337,S0138,P0138,H002,Diabetes,2025-09-03,Reimbursement,15617.0,Approved,13586,High
+C00338,S0127,P0127,H005,Fracture,2026-02-27,Cashless,23179.0,Approved,13383,High
+C00339,S0057,P0057,H004,Knee Surgery,2025-10-06,Cashless,72146.0,Approved,45099,Normal
+C00340,S0050,P0050,H001,Migraine,2025-04-15,Reimbursement,19544.0,Approved,11726,Critical
+C00341,S0072,P0072,H001,Diabetes,2026-05-21,Reimbursement,15666.0,Approved,11249,High
+C00342,S0136,P0136,H001,Kidney Disease,2025-03-24,Cashless,31655.0,Rejected,0,Normal
+C00343,S0117,P0117,H001,Fracture,2026-04-27,Reimbursement,31674.0,Approved,28768,High
+C00344,S0137,P0137,H005,Cancer,2025-09-12,Reimbursement,65613.0,Rejected,0,Normal
+C00345,S0171,P0171,H001,Migraine,2025-04-07,Reimbursement,20934.0,Approved,19737,High
+C00346,S0087,P0087,H007,Migraine,2025-06-12,Cashless,31480.0,Approved,17845,High
+C00347,S0130,P0130,H001,Knee Surgery,2025-02-23,Cashless,49578.0,Approved,46569,Critical
+C00348,S0064,P0064,H001,Diabetes,2025-10-10,Cashless,6888.0,Approved,4878,Normal
+C00349,S0059,P0059,H004,Knee Surgery,2025-06-08,Cashless,44392.0,Rejected,0,Normal
+C00350,S0142,P0142,H004,Cancer,2025-03-03,Cashless,48715.0,Approved,29792,Normal
+C00351,S0012,P0012,H008,Diabetes,2025-12-22,Reimbursement,32663.0,Rejected,0,Critical
+C00352,S0019,P0019,H002,Cancer,2025-05-18,Reimbursement,86559.0,Rejected,0,Critical
+C00353,S0041,P0041,H003,Knee Surgery,2026-05-17,Reimbursement,62082.0,Approved,47644,Critical
+C00354,S0105,P0105,H005,Diabetes,2025-06-14,Reimbursement,25600.0,Approved,15667,High
+C00355,S0131,P0131,H001,Heart Disease,2026-06-03,Cashless,27714.0,Approved,17299,Critical
+C00356,S0098,P0098,H001,Fracture,2025-03-06,Reimbursement,12962.0,Approved,9923,Normal
+C00357,S0155,P0155,H005,Kidney Disease,2025-06-07,Reimbursement,27722.0,Approved,18824,Normal
+C00358,S0004,P0004,H001,Asthma,2025-05-13,Cashless,23670.0,Approved,13314,High
+C00359,S0132,P0132,H003,Cancer,2026-02-02,Reimbursement,95957.0,Approved,76726,Normal
+C00360,S0054,P0054,H005,Diabetes,2025-01-14,Reimbursement,15591.0,Pending,9876,Normal
+C99901,S0181,P0181,H001,Cancer,2025-09-15,Cashless,82000.0,Approved,76000,Critical
+C99902,S0182,P0182,H004,Knee Surgery,2026-03-20,Cashless,65000.0,Approved,57000,High
+C99903,S0183,P0183,H005,Knee Surgery,2026-02-11,Reimbursement,51000.0,Approved,45000,High
+C00007,S0022,P0022,H001,Cancer,2025-04-26,Reimbursement,73799.0,Rejected,0,Critical
+C00031,S0062,P0062,H006,Kidney Disease,2025-02-02,Reimbursement,18974.0,Approved,13314,Normal
+C00101,S0012,P0012,H003,Diabetes,2025-03-09,Cashless,6769.0,Approved,4907,Normal
