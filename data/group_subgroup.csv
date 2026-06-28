@@ -1,0 +1,12 @@
+subgroup_id,group_id,subgroup_name,coverage_description,annual_premium,status
+SG001,GRP001,Gov-Basic-A,Basic hospital coverage,1200,Active
+SG002,GRP001,Gov-Basic-B,Basic outpatient coverage,1450,Active
+SG003,GRP001,Gov-Maternity,Maternity and child care,1650,Active
+SG004,GRP002,Senior-General,Senior general care,1800,Active
+SG005,GRP002,Senior-Chronic,Chronic disease care,2200,Active
+SG006,GRP003,Family-Basic,Family basic coverage,2600,Active
+SG007,GRP003,Family-Advanced,Family advanced coverage,3200,Active
+SG008,GRP004,Premium-Gold,Premium hospital and surgery,4200,Active
+SG009,GRP004,Premium-Platinum,Premium full coverage,5400,Active
+SG010,GRP005,Corporate-Standard,Corporate standard coverage,3000,Active
+SG011,GRP005,Corporate-Executive,Corporate executive plan,4500,Active
