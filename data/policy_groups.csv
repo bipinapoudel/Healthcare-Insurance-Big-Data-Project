@@ -1,0 +1,6 @@
+group_id,group_name,policy_type,description,profit_margin_rate
+GRP001,Government Basic Health,Government,Low-income and public sponsored insurance,0.72
+GRP002,Government Senior Care,Government,Senior citizen health insurance plan,0.68
+GRP003,Private Family Shield,Private,Private family coverage plan,0.58
+GRP004,Private Premium Plus,Private,Premium private insurance plan,0.64
+GRP005,Corporate Employee Care,Private,Employer-sponsored corporate plan,0.61
